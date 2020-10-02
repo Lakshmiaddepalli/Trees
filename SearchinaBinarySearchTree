@@ -15,4 +15,4 @@ class Solution {
 Time Complexity: Worst case O(N)
                  Average case O(LogN)
                  
-Space Complexity: if using recursion then O(LogN)
+Space Complexity: if using recursion then O(H)
